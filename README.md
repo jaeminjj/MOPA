@@ -5,6 +5,8 @@ Providing visualization with pathway score and network and survival analyis.
 
 Tutorial data can be downloaded in https://cobi.knu.ac.kr/tools.php
 
+You can track tutorial step by step in tutorial/MOPA_Tutorial.ipynb
+
 Below figure is an workflow method of MOPA
 ## Tutorial using colon cancer data (TCGA-COAD)
 <img src="./images/MOPA_workflow.jpg" alt="visualize 1" width="600"/>
